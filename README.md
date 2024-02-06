@@ -5,7 +5,7 @@
 
 ![](./src/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&lines=Hi+There+!!!+%E2%9C%8B%E2%9C%8B%E2%9C%8B;We+Are+STMJ+DEV;Web+Development;Backend+Development;Frontend+Development;Android+Developent;Desktop+Development;And+More.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=introduce;I+am+Maulana+Ifandika;I+like+networking%2C+computer+science%2C+programming%2C+and+mathematics;Never+give+up+in+your+life)](https://git.io/typing-svg)
 
 # Who We Are
 
