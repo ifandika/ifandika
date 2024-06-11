@@ -10,7 +10,7 @@
 # Who We Are
 
 <p style="text-transform: capitalize;">
-student and alumni organizations majoring in software engineering at SMKN 1 Jenangan
+Student and alumni organizations majoring in Computer and Network Engineer at SMK TKM Teknik Purworejo
 </p>
 
 # Languages And Tools
