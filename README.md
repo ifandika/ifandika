@@ -1,7 +1,5 @@
-<p align="center">
-    <a href="https://github.com/stmj-dev/stmj-dev"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=stmj-dev" alt="visitors"/>   
-</p>
+[![committers.top badge](https://user-badge.committers.top/indonesia/ifandika.svg)](https://user-badge.committers.top/indonesia/ifandika)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fifandika&label=visitor+total&labelColor=%23697689&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fifandika)
 
 ![](./src/header_.png)
 
