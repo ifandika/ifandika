@@ -6,18 +6,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile;%22Time+is+not+absolute%22+-+A.E.;Just+do+it+and+never+give+up!)](https://git.io/typing-svg)
 
 # About Me
-I am Ifandika and I have competence in the field of technology, especially software development, I am very passionate about every new thing and some of the things I am pursuing include **Open Source, Linux, Networking, Graphic Design, Math, Software Engineering, Science, etc.** I have a philosophical principle in life to become an expert in the field of science and can be useful for society, **the key to success for me is perseverance... perseverance... and perseverance...** I believe that anyone who always tries will be able to achieve what he wants, always try and pray and believe in God.
+_I am Ifandika and I have competence in the field of technology, especially software development, I am very passionate about every new thing and some of the things I am pursuing include **Open Source, Linux, Networking, Graphic Design, Math, Software Engineering, Science, etc.** I have a philosophical principle in life to become an expert in the field of science and can be useful for society, **the key to success for me is perseverance... perseverance... and perseverance...** I believe that anyone who always tries will be able to achieve what he wants, always try and pray and believe in God._
 
 # My Word
-**"The best of humans are those who are most beneficial to humans."** - (HR. Ahmad, ath-Thabrani, ad-Daruquthni. This hadith was narrated by al-Albani in Sahihul Jami' no: 3289)
+***"The best of humans are those who are most beneficial to humans."*** - (HR. Ahmad, ath-Thabrani, ad-Daruquthni. This hadith was narrated by al-Albani in Sahihul Jami' no: 3289)
 
-**"Success doesn't belong to the smart. Success belongs to those who consistently strive."** - Prof. Dr. Ing. H. Bacharuddin Jusuf Habibie, FREng.
+***"Success doesn't belong to the smart. Success belongs to those who consistently strive."*** - Prof. Dr. Ing. H. Bacharuddin Jusuf Habibie, FREng.
 
-**"Do the first commandment - Iqra!"** - Ir. Onno Widodo Purbo, M.Eng., Ph.D.
+***"Do the first commandment - Iqra!"*** - Ir. Onno Widodo Purbo, M.Eng., Ph.D.
 
-**"Don't shout that you are able to defend religion even if you have to sacrifice your life, but do you dare to offer your possessions for the sake of religion?"** - K.H. Ahmad Dahlan
+***"Don't shout that you are able to defend religion even if you have to sacrifice your life, but do you dare to offer your possessions for the sake of religion?"*** - K.H. Ahmad Dahlan
 
-**"There is no wealth greater than Reason. There is no condition more miserable than Stupidity. And there is no Heritage better than Education."** - Ali Bin Abi Talib
+***"There is no wealth greater than Reason. There is no condition more miserable than Stupidity. And there is no Heritage better than Education."*** - Ali Bin Abi Talib
 
 # Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifandika&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
@@ -28,7 +28,7 @@ I am Ifandika and I have competence in the field of technology, especially softw
 
 
 # Top Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifandika&repo=LKS-Software-IT-Business-2024)](https://github.com/ifandika/LKS-Software-IT-Business-2024)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifandika&repo=LKS-Software-IT-Business-2024&theme=transparent)](https://github.com/ifandika/LKS-Software-IT-Business-2024)
 
 
 # Languages and Tools
