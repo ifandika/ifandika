@@ -3,6 +3,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ifandika)
 
+[Donate Saweria](https://saweria.co/ifandika)
+
 ![](./src/header_.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile;%22Time+is+not+absolute%22+-+A.E.;Just+do+it+and+never+give+up!)](https://git.io/typing-svg)
