@@ -7,7 +7,7 @@
 
 ![](./src/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile;%22Time+is+not+absolute%22+-+A.E.;Just+do+it+and+never+give+up!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile;%22Time+is+not+absolute%22+-+A.E.;Just+do+it+and+never+give+up!;Three+things:+Paper,+Pen,+Pantience)](https://git.io/typing-svg)
 
 # About Me
 _I am Ifandika and I have competence in the field of technology, especially software development, I am very passionate about every new thing and some of the things I am pursuing include **Open Source, Linux, Networking, Graphic Design, Math, Software Engineering, Science, etc.** I have a philosophical principle in life to become an expert in the field of science and can be useful for society, **the key to success for me is perseverance... perseverance... and perseverance...** I believe that anyone who always tries will be able to achieve what he wants, always try and pray and believe in God._
