@@ -1,3 +1,18 @@
+<!--- VISITOR BADGE WITH REAL-TIME COUNTER -->
+<div align="center">
+  <!-- <img src="https://komarev.com/ghpvc/?username=ifandika-arch&label=✨+VISITORS+COUNT+✨&color=0e75b6&style=for-the-badge&logo=github-sponsors" /> -->
+  <img src="https://img.shields.io/github/followers/ifandika?label=🤝+FOLLOWERS&style=for-the-badge&color=ff69b4&logo=github" />
+  <img src="https://img.shields.io/github/stars/ifandika?label=⭐+TOTAL+STARS&style=for-the-badge&color=ffb86b&logo=star" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ifandika&fontSize=90&fontAlignY=40&desc=Software%20Engineering%20%7C%20STEM%20%&descAlignY=60&animation=fadeIn" width="100%" />
+</div>
+
 [![committers.top badge](https://user-badge.committers.top/indonesia/ifandika.svg)](https://user-badge.committers.top/indonesia/ifandika)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fifandika&label=visitor+total&labelColor=%23697689&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fifandika)
 
@@ -24,11 +39,12 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 ***"There is no wealth greater than Reason. There is no condition more miserable than Stupidity. And there is no Heritage better than Education."*** - Ali Bin Abi Talib
 
 # Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifandika&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifandika&theme=transparent" width="100%" />
+</div>
 
 ![](https://streak-stats.demolab.com/?user=ifandika&theme=transparent&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifandika&langs_count=8&theme=transparent)
 
 
 # Top Repository
@@ -116,3 +132,16 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
 </div>
 
+<br/>
+
+<div align="center">
+  <sub>
+    <b>Thanks for visiting my GitHub universe!</b>
+    <br/>
+    <i>⭐️ Star repositories that inspire you • 🔄 Fork projects to learn • 🤝 Connect to collaborate</i>
+  </sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
