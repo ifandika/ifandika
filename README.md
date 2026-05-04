@@ -1,6 +1,4 @@
-<!--- VISITOR BADGE WITH REAL-TIME COUNTER -->
 <div align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=ifandika-arch&label=✨+VISITORS+COUNT+✨&color=0e75b6&style=for-the-badge&logo=github-sponsors" /> -->
   <img src="https://img.shields.io/github/followers/ifandika?label=🤝+FOLLOWERS&style=for-the-badge&color=ff69b4&logo=github" />
   <img src="https://img.shields.io/github/stars/ifandika?label=⭐+TOTAL+STARS&style=for-the-badge&color=ffb86b&logo=star" />
 </div>
@@ -13,14 +11,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ifandika&fontSize=90&fontAlignY=40&desc=Software%20Engineering%20%7C%20STEM%20%&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/indonesia/ifandika.svg)](https://user-badge.committers.top/indonesia/ifandika)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fifandika&label=visitor+total&labelColor=%23697689&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fifandika)
+<div align="center">
+  <img src="https://user-badge.committers.top/indonesia/ifandika.svg"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fifandika&label=visitor+total&labelColor=%23697689&countColor=%23263759&style=flat-square"/>
+	<a href="https://buymeacoffee.com/ifandika">
+		<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="130px">
+	</a>
+	<a href="https://saweria.co/ifandika">Doate Saweria</a>
+</div>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ifandika)
-
-[Donate Saweria](https://saweria.co/ifandika)
-
-![](./src/header_.png)
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile;%22Time+is+not+absolute%22+-+A.E.;Just+do+it+and+never+give+up!;Three+things:+Paper,+Pen,+Pantience)](https://git.io/typing-svg)
 
@@ -44,8 +44,9 @@ _I am Ifandika and I have competence in the field of technology, especially soft
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifandika&theme=transparent" width="100%" />
 </div>
 
-![](https://streak-stats.demolab.com/?user=ifandika&theme=transparent&hide_border=false)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ifandika&theme=transparent&hide_border=false" width="90%" />
+</div>
 
 # Top Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifandika&repo=LKS-Software-IT-Business-2024&theme=transparent)](https://github.com/ifandika/LKS-Software-IT-Business-2024)
