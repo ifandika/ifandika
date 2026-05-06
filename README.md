@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/github/followers/ifandika?label=🤝+FOLLOWERS&style=for-the-badge&color=ff69b4&logo=github" />
   <img src="https://img.shields.io/github/stars/ifandika?label=⭐+TOTAL+STARS&style=for-the-badge&color=ffb86b&logo=star" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
