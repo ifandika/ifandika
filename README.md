@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ifandika&fontSize=90&fontAlignY=40&desc=Software%20Engineering%20%7C%20STEM%20%&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
