@@ -41,18 +41,21 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 ***"There is no wealth greater than Reason. There is no condition more miserable than Stupidity. And there is no Heritage better than Education."*** - Ali Bin Abi Talib
 
 # Statistics
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifandika&theme=transparent" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ifandika&theme=transparent&hide_border=false" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=ifandika&theme=transparent" width="90%" />
 </div>
 
-# Top Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifandika&repo=LKS-Software-IT-Business-2024&theme=transparent)](https://github.com/ifandika/LKS-Software-IT-Business-2024)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifandika&theme=transparent" width="50%" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=transparent" width="50%" />
 
+
+# Top Repository
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifandika&repo=LKS-Software-IT-Business-2024" width="90%" />
+</div>
 
 # Languages and Tools
 <div align="center">
