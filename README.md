@@ -29,7 +29,8 @@
 # About Me
 _I am Ifandika and I have competence in the field of technology, especially software development, I am very passionate about every new thing and some of the things I am pursuing include **Open Source, Linux, Networking, Graphic Design, Math, Software Engineering, Science, etc.** I have a philosophical principle in life to become an expert in the field of science and can be useful for society, **the key to success for me is perseverance... perseverance... and perseverance...** I believe that anyone who always tries will be able to achieve what he wants, always try and pray and believe in God._
 
-# My Word
+
+# Life Philosophy
 ***"The best of humans are those who are most beneficial to humans."*** - (HR. Ahmad, ath-Thabrani, ad-Daruquthni. This hadith was narrated by al-Albani in Sahihul Jami' no: 3289)
 
 ***"Success doesn't belong to the smart. Success belongs to those who consistently strive."*** - Prof. Dr. Ing. H. Bacharuddin Jusuf Habibie, FREng.
@@ -39,6 +40,9 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 ***"Don't shout that you are able to defend religion even if you have to sacrifice your life, but do you dare to offer your possessions for the sake of religion?"*** - K.H. Ahmad Dahlan
 
 ***"There is no wealth greater than Reason. There is no condition more miserable than Stupidity. And there is no Heritage better than Education."*** - Ali Bin Abi Talib
+
+***"Software engineering is not just writing code, it is writing code that is human-understandable, durable, secure, and easy to operate."*** - Internet
+
 
 # Statistics
 <div align="center">
