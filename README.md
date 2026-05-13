@@ -56,11 +56,6 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifandika&theme=transparent" width="50%" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=transparent" width="50%" />
 
 
-# Top Repository
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifandika&repo=LKS-Software-IT-Business-2024" width="90%" />
-</div>
-
 # Languages and Tools
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
