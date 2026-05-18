@@ -46,9 +46,9 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 
 # Statistics
 <div align="center">
-	<a href="https://github.com/ifandika">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifandika&theme=transparent" width="100%" />
-	</a>
+<a href="https://github.com/ifandika">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifandika&theme=nord_dark" width="90%" />
+</a>
 </div>
 
 <div align="center">
@@ -56,14 +56,16 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 </div>
 
 <div align="center">
-<a href="https://github.com/ifandika">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifandika&theme=transparent" width="50%" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ifandika&theme=transparent" width="50%" />
+<a href="https://github.com/abdulrdeveloper">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark" width="45%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrdeveloper&theme=nord_dark" width="45%" />
 </a>
 </div>
 
+<div align="center">
 <a href="https://github.com/ifandika">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifandika&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&custom_title=Abdul%20Rahman%20%E2%80%94%20Contribution%20Universe&radius=12" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifandika&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&custom_title=Abdul%20Rahman%20%E2%80%94%20Contribution%20Universe&radius=12" width="90%" />
 </a>
+</div>
 
 </div>
 
