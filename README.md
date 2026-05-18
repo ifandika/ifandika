@@ -56,8 +56,8 @@ _I am Ifandika and I have competence in the field of technology, especially soft
 </div>
 
 <div align="center">
-<a href="https://github.com/abdulrdeveloper">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark" width="45%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrdeveloper&theme=nord_dark" width="45%" />
+<a href="https://github.com/ifandika">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ifandika&theme=nord_dark" width="45%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ifandika&theme=nord_dark" width="45%" />
 </a>
 </div>
 
